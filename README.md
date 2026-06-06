@@ -54,6 +54,14 @@ The CNN model consists of:
   - Overfitting issues
   - Image quality variations
 
+---
+
+## 📸 Screenshots
+
+All UI screenshots of the application are available in the /Screenshots folder of this repository.
+
+---
+
 ### 🔮 Future Improvements:
 - Data augmentation
 - Dropout regularization
