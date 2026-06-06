@@ -33,7 +33,7 @@ The dataset contains **87,062 images** of ASL hand gestures.
 The full dataset is not included in this repository due to its large size.
 
 Dataset link (Google Drive or Kaggle):  
-👉 https://drive.google.com/file/d/1VlhbrFAKw_WCmXB3EGg8EH26uPu5spZK/view?usp=drive_link
+👉 https://drive.google.com/file/d/1VlhbrFAKw_WCmXB3EGg8EH26uPu5spZK/view?usp=sharing
 
 ---
 
@@ -53,6 +53,14 @@ The CNN model consists of:
   - Dataset imbalance
   - Overfitting issues
   - Image quality variations
+
+---
+
+## 📸 Screenshots
+
+All UI screenshots of the application are available in the /Screenshots folder of this repository.
+
+---
 
 ### 🔮 Future Improvements:
 - Data augmentation
